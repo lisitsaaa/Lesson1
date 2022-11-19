@@ -1,3 +1,2 @@
 hi! It's secondFile
-You can see a cute dog in "second commit";
-because in "third commit" - i deleted this image :(
+I create a new branch :)
