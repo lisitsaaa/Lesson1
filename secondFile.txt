@@ -1,2 +1,1 @@
-hi! It's secondFile
-I create a new branch
+hi! ohhhhh, it's a conflict
